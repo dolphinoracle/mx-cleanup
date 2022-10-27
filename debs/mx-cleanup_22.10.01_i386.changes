@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 26 Oct 2022 19:39:26 -0400
+Source: mx-cleanup
+Binary: mx-cleanup
+Architecture: i386
+Version: 22.10.01
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-cleanup - mx-cleanup
+Changes:
+ mx-cleanup (22.10.01) mx; urgency=medium
+ .
+   * update translations
+Checksums-Sha1:
+ 0b27c4af4d38de4201183f898a61091475ecc437 10197 mx-cleanup_22.10.01_i386.buildinfo
+ dfbad04b8c4713ed016cf5843cf7a8a12a16c636 140996 mx-cleanup_22.10.01_i386.deb
+Checksums-Sha256:
+ f9c79416e5b5ac304199edcee80fef8d81e1129c59bc0962413e830761d81ce2 10197 mx-cleanup_22.10.01_i386.buildinfo
+ 81e2307d0ccae0fbb29b7f52628016d3cee62124f77091d299086576751215ed 140996 mx-cleanup_22.10.01_i386.deb
+Files:
+ f6cbc74db620386193c02e0b30a89954 10197 admin optional mx-cleanup_22.10.01_i386.buildinfo
+ bcdd8bc4e7aceccde4d8b92f1c4aa3f1 140996 admin optional mx-cleanup_22.10.01_i386.deb
